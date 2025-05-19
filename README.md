@@ -1,3 +1,5 @@
 # SOBRE MIM
-*Meu nome é Maynaraa*
+*Meu nome é Maynara*
 **Estou no meu primeiro ano do Curso de Desenvolvimento de Sistemas**
+
+
